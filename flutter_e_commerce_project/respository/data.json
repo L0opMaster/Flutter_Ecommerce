@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Performance Laptop",
+      "description": "A high-end laptop for professionals and gamers, featuring the latest CPU and GPU for unparalleled performance.",
+      "price": 1499.99,
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/FUi2wwNdyFSwShZZ7LaqWf.jpg",
+      "stock": 9
+    },
+    {
+      "id": "2",
+      "name": "Wireless Noise-Cancelling Headphones",
+      "description": "Immerse yourself in music with these headphones featuring adaptive noise cancellation and 30-hour battery life.",
+      "price": 249.99,
+      "imageUrl": "https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg",
+      "stock": 22
+    },
+
+    {
+      "id": "4",
+      "name": "Professional DSLR Camera",
+      "description": "Capture stunning photos and videos with this professional-grade DSLR camera, featuring a 24MP sensor and interchangeable lenses.",
+      "price": 1199.99,
+      "imageUrl": "https://www.google.com/search?q=https://placehold.co/600x400/F7CAC9/000000%3Ftext%3DCamera",
+      "stock": 4
+    },
+    {
+      "id": "5",
+      "name": "Smartwatch with Fitness Tracker",
+      "description": "Stay connected and track your fitness goals with this stylish smartwatch. Monitors heart rate, steps, and sleep.",
+      "price": 199.99,
+      "imageUrl": "https://i5.walmartimages.com/seo/Smart-Watch-Fits-for-Android-and-iPhone-EEEkit-Fitness-Health-Tracker-Waterproof-Smartwatch-for-Women-Men_819cb65b-8437-4eb3-aba1-ce6513dc8d58.312f5775b50ab18c130fe5a454149fa9.jpeg",
+      "stock": 29
+    },
+    {
+      "id": "6",
+      "name": "Ergonomic Office Chair",
+      "description": "Improve your posture and comfort during long work hours with this fully adjustable ergonomic office chair.",
+      "price": 349.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/71rwp0sT4bL.jpg",
+      "stock": 11
+    },
+    {
+      "id": "7",
+      "name": "Portable Bluetooth Speaker",
+      "description": "Take your music anywhere with this waterproof and dustproof portable speaker. 12 hours of playtime on a single charge.",
+      "price": 79.99,
+      "imageUrl": "https://image-cdn.jambuntech.dev/YiziLe3sNoAoyFpTdIX-B5bTRIR6pspBmepmbKL_/1920x/filters:format(webp)/tk/1_b7da3fb6d0.png",
+      "stock": 49
+    },
+    {
+      "id": "8",
+      "name": "Electric Coffee Grinder",
+      "description": "Get the perfect grind for your coffee beans every time. Features multiple grind settings for different brewing methods.",
+      "price": 49.99,
+      "imageUrl": "https://marketlane.com.au/cdn/shop/products/Mahlkonig-X54-AllroundHome-Grinder-Market-Lane-Coffee-Side-1.jpg?v=1659140788",
+      "stock": 39
+    },
+    {
+      "id": "9",
+      "name": "Robot Vacuum Cleaner",
+      "description": "Keep your floors clean with minimal effort. This smart robot vacuum maps your home and can be controlled via an app.",
+      "price": 299.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXbRBpsFhw6HzRyiQmt9LMUv1H9gLu816rg&s",
+      "stock": 17
+    },
+    {
+      "id": "10",
+      "name": "Mechanical Keyboard",
+      "description": "A durable and responsive mechanical keyboard with customizable RGB backlighting, perfect for typing and gaming.",
+      "price": 129.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/51yPd4U5cPL.jpg",
+      "stock": 21
+    }
+  ]
+}
